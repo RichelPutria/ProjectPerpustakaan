@@ -12,6 +12,8 @@ penulis :
 <input type="text" name="penulis" value="" class="form-control">
 penerbit :
 <input type="text" name="penerbit" value="" class="form-control">
+Deskripsi :
+<textarea name="deskripsi" id="" cols="30" rows="10" class= "form-control"></textarea>
 <input type="submit" name="simpan" value="tambah buku" class="btn btn-primary">
 </form>
 <script
